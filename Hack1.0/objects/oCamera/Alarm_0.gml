@@ -1,0 +1,2 @@
+
+screenshake = 0;
